@@ -1,0 +1,194 @@
+.section2 {
+  margin-top: 0px;
+}
+
+
+
+.Greeting {
+  margin-bottom: 0px;
+}
+
+video {
+width: 100%;
+}
+
+.video-container {
+  background-color: #efefef;
+  
+  
+}
+
+
+
+body {
+  font-family:Overpass, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+
+ul {
+  font-size: ;
+  text-transform: uppercase;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.smallsheild {
+  height: 46px;
+  width: 50px;
+  float: left;
+
+}
+
+
+
+.EFA {
+  font-family: 'Crimson Text',"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+  padding-left: 40px;
+  padding-right: 150px;
+}
+.courses {
+  background-color: #348db9;
+}
+
+.Schedule {
+  background-color: #348db9;
+  border-style: solid;
+  border-color: snow;
+  border-top: none;
+  border-bottom: 0px;
+}
+
+.Apply {
+  background-color: #e33e42;
+  padding-left: 0px;
+}
+
+h1 {
+  line-height: 200px;
+  background-color: #efefef;
+ color:#348db9;
+ text-align: center;
+ font-size: 50px;
+ text-transform: uppercase;
+ margin-bottom: 0px;
+ margin-top: 0px;
+}
+
+
+
+  .cards {
+    background-color: #efefef;
+display: flex;
+padding: 30px;
+margin-top: 0px;
+
+
+
+  }
+
+  
+
+  .box-1 {
+      background-color: white;;
+      padding: 1em 8.94736842105263% 0;
+      margin: 20px;
+      font-size: larger;
+      width:30%;
+  }
+
+  .box-2 {
+    background-color:white;
+    padding: 1em 8.94736842105263% 0;
+    margin: 20px;
+    font-size: larger;
+    width:30%;
+}
+
+.box-3 {
+    background-color: white;;
+    padding: 1em 8.94736842105263% 0;
+    margin: 20px;
+    font-size: larger;
+    width:30%;
+}
+Button {
+    background: #e33e42;
+    color: #fff;
+    text-align: center;
+    padding: .5em;
+    font-weight: 700;
+}
+ .sheild {
+   float: left;
+   height: 150px;
+   width: 125px;
+   padding: 20px;
+ }
+
+ .tech-world{
+   padding: 20px;
+   color: #348db9
+
+
+
+ }
+
+ .info {
+   padding-left: 12em;
+   padding-right: 12em;
+ }
+
+ .overlay {
+
+  margin-bottom: 400px;
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  min-height: 150vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+ }
+
+ .learnmore {
+  z-index: 10;
+  text-transform: uppercase;
+  padding-top: 18em;
+ }
+
+ .banner {
+  margin:2em;
+  text-transform: uppercase;
+  color: azure;
+  margin-bottom: .5em;
+  position: inherit;
+  font-size: 48px;
+  text-align: center;
+  line-height: 1.3;
+  padding: 4%;
+  width: 15.75em;
+  float: left;
+  background-size:contain;
+  background-color: black;
+  opacity: 80%;
+  display: inline-block;
+  white-space: nowrap;
+  
+}
+
